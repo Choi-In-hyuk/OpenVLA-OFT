@@ -3,6 +3,9 @@
 ## 영상 실행할 때
 vlc (영상 이름)
 
+## interactive_libero.py position
+~/Downloads$ mv interactive_libero.py ~/choi_ws/openvla-oft/experiments/robot/libero
+
 # LIBERO Interactive Mode - Choose one command to run
 # LIBERO-Spatial (공간 관련 태스크)
  python interactive_libero.py \
