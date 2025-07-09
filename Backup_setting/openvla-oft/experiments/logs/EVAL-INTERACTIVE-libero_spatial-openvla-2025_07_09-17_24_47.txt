@@ -1,0 +1,35 @@
+Task suite: libero_spatial
+Interactive mode enabled
+Episodes per command: 5
+Using default initial states
+Original task: pick up the black bowl on the wooden cabinet and place it on the plate
+Custom command: pick object
+
+Episode 1/5
+Task: pick object
+Saved rollout MP4 at path ./rollouts/2025_07_09/2025_07_09-17_24_47--openvla_oft--episode=1--success=False--task=pick_object_(task_10).mp4
+Episode 1 Success: False
+
+Episode 2/5
+Task: pick object
+Saved rollout MP4 at path ./rollouts/2025_07_09/2025_07_09-17_24_47--openvla_oft--episode=2--success=False--task=pick_object_(task_10).mp4
+Episode 2 Success: False
+
+Episode 3/5
+Task: pick object
+Saved rollout MP4 at path ./rollouts/2025_07_09/2025_07_09-17_24_47--openvla_oft--episode=3--success=False--task=pick_object_(task_10).mp4
+Episode 3 Success: False
+
+Episode 4/5
+Task: pick object
+Saved rollout MP4 at path ./rollouts/2025_07_09/2025_07_09-17_24_47--openvla_oft--episode=4--success=False--task=pick_object_(task_10).mp4
+Episode 4 Success: False
+
+Episode 5/5
+Task: pick object
+Saved rollout MP4 at path ./rollouts/2025_07_09/2025_07_09-17_24_47--openvla_oft--episode=5--success=False--task=pick_object_(task_10).mp4
+Episode 5 Success: False
+
+Results for 'pick object':
+Success rate: 0.00 (0/5)
+Interactive evaluation ended
